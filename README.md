@@ -1,10 +1,12 @@
 # PC-INFO-DASHBOARD
 
+<img width="1248" height="832" alt="OIG3 9mY9q bvE5Q" src="https://github.com/user-attachments/assets/56895e52-47b6-4303-b13c-972099e2bc61" />
+
+
 Tableau de bord système ultime en Tkinter, créé par hackers_tchad.
 
 ## Description
 
-`pc-info-dashboard.py` affiche plus de 100 informations système en temps réel :
 
 - Utilisation CPU globale et par cœur
 - Mémoire RAM et Swap
@@ -47,6 +49,4 @@ Lancez simplement le script. Les onglets permettent de naviguer entre :
 - Processus
 - Matrix
 
-## Avertissement
-
-Usage éducatif uniquement.
+AUTEUR = HACKES_TCHAD
