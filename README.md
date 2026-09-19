@@ -1,9 +1,7 @@
 # PC-INFO-DASHBOARD
+<img width="1283" height="700" alt="vintage-computer-setup-on-wooden-desk-with-coffee-and-plant-nostalgic-office-scene-photo" src="https://github.com/user-attachments/assets/6863a3c0-430b-41d6-9e2c-7eb689eceac4" />
 
-<img width="1248" height="832" alt="OIG3 9mY9q bvE5Q" src="https://github.com/user-attachments/assets/56895e52-47b6-4303-b13c-972099e2bc61" />
-
-
-Tableau de bord système ultime en Tkinter, créé par hackers_tchad.
+Tableau de bord système ultime
 
 ## Description
 
