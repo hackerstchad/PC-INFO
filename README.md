@@ -13,7 +13,6 @@ Tableau de bord système ultime
 - Batterie
 - GPU (via GPUtil)
 - Processus
-- Console Matrix animée
 - Graphiques temps réel
 
 ## Prérequis
